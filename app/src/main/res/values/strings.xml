@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Liste de contacts version3</string>
+    <string name="titre_liste">Liste des contacts</string>
+    <string name="titre_detail">Détails du contact</string>
+    <string name="titre_carte">Position du contact</string>
+    <string name="rechercher">Rechercher (nom, prénom, téléphone)</string>
+    <string name="aucun_contact">Aucun contact ne correspond à la recherche</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="telephone">Téléphone</string>
+    <string name="email">E-mail</string>
+    <string name="latitude">Latitude (−90 à 90)</string>
+    <string name="longitude">Longitude (−180 à 180)</string>
+    <string name="appeler">Appeler</string>
+    <string name="envoyer_email">Envoyer un e-mail</string>
+    <string name="galerie">Choisir une photo (Galerie)</string>
+    <string name="camera">Prendre une photo (Caméra)</string>
+    <string name="voir_carte">Voir sur la carte</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="annuler">Annuler</string>
+    <string name="retour">Retour</string>
+    <string name="err_obligatoire">Champ obligatoire</string>
+    <string name="err_email">Adresse e-mail invalide</string>
+    <string name="err_lat">Latitude invalide (nombre entre −90 et 90)</string>
+    <string name="err_lon">Longitude invalide (nombre entre −180 et 180)</string>
+    <string name="err_coord_paire">Renseignez la latitude ET la longitude, ou aucune</string>
+    <string name="err_tel_vide">Aucun numéro à appeler</string>
+    <string name="err_email_vide">Aucune adresse e-mail</string>
+    <string name="err_app_absente">Aucune application disponible pour cette action</string>
+    <string name="err_contact">Contact introuvable</string>
+    <string name="msg_pas_coord">Aucune position définie pour ce contact. Saisissez ses coordonnées dans la fiche détail.</string>
+    <string name="msg_coord_invalides">Les coordonnées de ce contact sont invalides.</string>
+    <string name="msg_enregistre">Contact enregistré</string>
+</resources>

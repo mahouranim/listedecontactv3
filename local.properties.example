@@ -1,0 +1,3 @@
+# Copier ce fichier en "local.properties" (non versionné) et mettre votre clé :
+sdk.dir=C\:\\Users\\VOTRE_NOM\\AppData\\Local\\Android\\Sdk
+MAPS_API_KEY=VOTRE_CLE_GOOGLE_MAPS
